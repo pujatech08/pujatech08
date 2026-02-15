@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi 👋, I'm Puja Chaudhary
 
-<!--
-**pujatech08/pujatech08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 About Me
+💻 Software Developer  
+🏢 Currently working at National Informatics Centre (NIC), Delhi  
+🚀 Passionate about backend & full-stack development  
+🌱 Always learning new technologies  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+### 🚀 Backend
+- PHP
+- CodeIgniter
+- Laravel
+- Node.js
+
+### 🎨 Frontend
+- React.js
+- JavaScript
+- jQuery
+
+### 🗄️ Databases
+- MySQL
+- MongoDB
+- PostgreSQL
+
+---
+
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/puja-chaudhary-a88304148/
+- Email: chaudharypuja0806@gmail.com
+
